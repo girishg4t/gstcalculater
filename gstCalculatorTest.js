@@ -26,4 +26,7 @@ describe('Calculate GST', function () {
             finalPrice: 11800
         });
     });
+    it('should return error', function () {
+        assert.equal(getGSTandFinalPrice(2, "noproduct", 5000), "Error :no Slab found for current commodity") ;
+    });
 });
