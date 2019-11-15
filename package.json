@@ -1,0 +1,22 @@
+{
+  "name": "gstcalculator",
+  "version": "1.0.0",
+  "description": "calculate gst for products as per indian slab systems",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha gstCalculatorTest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/girishg4t/gstcalculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/girishg4t/gstcalculator/issues"
+  },
+  "homepage": "https://github.com/girishg4t/gstcalculator#readme",
+  "dependencies": {
+    "mocha": "^6.2.2"
+  }
+}

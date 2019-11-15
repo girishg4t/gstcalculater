@@ -1,0 +1,38 @@
+[
+    {
+        "Category": "Food-grains",
+        "Products": [
+            "Rice",
+            "Wheat",
+            "Dal"
+        ],
+        "Slab": 0
+    },
+    {
+        "Category": "Furniture",
+        "Products": [
+            "Table",
+            "Sofa",
+            "Chair"
+        ],
+        "Slab": 5
+    },
+    {
+        "Category": "Electronics",
+        "Products": [
+            "Mobile",
+            "TV",
+            "Tablet"
+        ],
+        "Slab": 18
+    },
+    {
+        "Category": "Cosmetics",
+        "Products": [
+            "Cream",
+            "Perfume",
+            "Lotion"
+        ],
+        "Slab": 28
+    }
+]
